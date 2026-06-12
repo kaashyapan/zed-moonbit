@@ -11,5 +11,5 @@ repository = "https://github.com/moonbitlang/tree-sitter-moonbit"
 commit = "36191d7fe4ec4298c8c1f251af6a82939f8e9a67"
 
 [language_servers.moon-lsp]
-name = "moonlsp"
+name = "moon-lsp"
 languages = ["MoonBit"]
